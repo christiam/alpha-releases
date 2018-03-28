@@ -13,17 +13,17 @@ The [release notes][1] provide more information, like:
 * Examples of the new features
 * How to run faster searches
 
-_Note:_ This is a preliminary release of these new features.  These features are available in stand-alone BLAST, not the BLAST web interface.
+**Note:** This is a preliminary release of these new features.  These features are available in stand-alone BLAST, not the BLAST web interface.
 
 Check out our awesome [user manual][2] and [FAQ][3]
 
-Feedback is [welcome][4] :)
+Feedback is [welcome][4]!
 
 ## Download BLAST+
 
-Now, if you're an apple-head, use [this file][5] to install. (Checksum for the cautious is [here][6])
+Now, if you're an apple-head, use [this file][5] to install (Checksum for the cautious is [here][6]).
 
-But if you love all things Linux, try [this one][7]([checksum][8]).
+But if you love all things Linux, try [this one][7] ([checksum][8]).
 
 Finally, open-source-OSers take heart!  We've got you covered [here][9] ([checksum][10]).
 
