@@ -7,7 +7,7 @@ We’ve made some enhancements to the BLAST+ applications that allow you to:
 * Limit your search by taxonomy
 * Improved performance when limiting BLAST search with accessions
 
-The <release notes> provide more information, like:
+The [release notes]([1]) provide more information, like:
 
 * How to access the 2.8.0 executables and the version 5 databases
 * Examples of the new features
@@ -15,7 +15,7 @@ The <release notes> provide more information, like:
 
 _Note:_ This is a preliminary release of these new features.  These features are available in stand-alone BLAST, not the BLAST web interface.
 
-Check out our awesome [user manual](https://www.ncbi.nlm.nih.gov/books/NBK279690/)] and [FAQ](https://support.ncbi.nlm.nih.gov/ics/support/KBList.asp?folderID=11)!
+Check out our awesome [user manual](https://www.ncbi.nlm.nih.gov/books/NBK279690/) and [FAQ](https://support.ncbi.nlm.nih.gov/ics/support/KBList.asp?folderID=11)!
 
 Feedback is [welcome](https://www.ncbi.nlm.nih.gov/home/about/contact/) :)
 
@@ -37,3 +37,7 @@ You can find static copies of the popular `nr` and `nt` BLAST databases here: ft
 
 
 Have fun!
+
+[1] https://www.ncbi.nlm.nih.gov/books/NBK131777/
+[2] https://www.ncbi.nlm.nih.gov/books/NBK279690/
+[3] https://support.ncbi.nlm.nih.gov/ics/support/KBList.asp?folderID=11
