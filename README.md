@@ -7,7 +7,7 @@ We’ve made some enhancements to the BLAST+ applications that allow you to:
 * Limit your search by taxonomy
 * Improved performance when limiting BLAST search with accessions
 
-The [release notes]([1]) provide more information, like:
+The [release notes](1) provide more information, like:
 
 * How to access the 2.8.0 executables and the version 5 databases
 * Examples of the new features
