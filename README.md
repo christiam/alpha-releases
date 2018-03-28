@@ -38,10 +38,10 @@ Share and have fun!
 [2]: https://www.ncbi.nlm.nih.gov/books/NBK279690/
 [3]: https://support.ncbi.nlm.nih.gov/ics/support/KBList.asp?folderID=11
 [4]: https://www.ncbi.nlm.nih.gov/home/about/contact/
-[5]: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha/ncbi-blast-2.8.0+.dmg
-[6]: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha/ncbi-blast-2.8.0+.dmg.md5
-[7]: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha/ncbi-blast-2.8.0+-x64-linux.tar.gz
-[8]: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha/ncbi-blast-2.8.0+-x64-linux.tar.gz.md5
-[9]: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0/ncbi-blast-2.8.0+-src.tar.gz
-[10]: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0/ncbi-blast-2.8.0+-src.tar.gz.md5
-[11]: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha.
+[5]: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha/ncbi-blast-2.8.0+.dmg
+[6]: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha/ncbi-blast-2.8.0+.dmg.md5
+[7]: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha/ncbi-blast-2.8.0+-x64-linux.tar.gz
+[8]: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha/ncbi-blast-2.8.0+-x64-linux.tar.gz.md5
+[9]: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0/ncbi-blast-2.8.0+-src.tar.gz
+[10]: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0/ncbi-blast-2.8.0+-src.tar.gz.md5
+[11]: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.0alpha.
